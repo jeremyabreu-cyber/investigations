@@ -4,6 +4,7 @@
 This repository documents hands-on incident response investigation workflows practiced in a home lab environment. The focus is on structured analysis, log correlation, and decision-making during security investigations rather than tooling alone.
 
 The investigations documented here are designed to reflect real-world SOC and incident response scenarios.
+
 ##Audience
 This repository is intended for SOC analysts, incident responders, and security engineers interested in practical investigation methodology.
 
